@@ -16,15 +16,6 @@ nav{
 main{
     background-color: rgb(240, 245 ,242);
 }
-
-.wpara {
-    display: inline-block;
-   width: 100px;
-   font-size: large;
-
-}
-
-
 section{
     
     background-color: rgb(236, 226, 226);
@@ -35,14 +26,6 @@ section{
     padding-right: 30px;
     border-radius: 10px;
 }
-
-#remote{
-    text-align: right;
-}
-strong{
-    font-size: large;
-}
-
 footer{
     text-align: center;
     text-decoration: underline;
