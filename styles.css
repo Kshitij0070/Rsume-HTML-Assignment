@@ -1,0 +1,49 @@
+*{
+    
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+html{
+    background-color: rgb(255, 255, 255);
+}
+nav{
+    display: flex-start;
+    justify-content: space-around;
+    font-size: larger;
+    overflow-wrap: normal;
+  
+}
+main{
+    background-color: rgb(240, 245 ,242);
+}
+
+.wpara {
+    display: inline-block;
+   width: 100px;
+   font-size: large;
+
+}
+
+
+section{
+    
+    background-color: rgb(236, 226, 226);
+
+    border: solid rgb(238, 0, 0) 2px;
+    margin: 15px;
+    padding-left: 20px;
+    padding-right: 30px;
+    border-radius: 10px;
+}
+
+#remote{
+    text-align: right;
+}
+strong{
+    font-size: large;
+}
+
+footer{
+    text-align: center;
+    text-decoration: underline;
+}
